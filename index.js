@@ -89,6 +89,24 @@ const perguntas = [
       ],
       correta: 0
     },
+    {
+      pergunta: "Quais são as principais diferenças entre desenvolvimento front-end e back-end, e como essas duas áreas se complementam em um projeto web?",
+      respostas: [
+        "O front-end se concentra na interface do usuário, enquanto o back-end lida com a lógica do servidor e o banco de dados. Ambos são essenciais para criar uma experiência de usuário completa.",
+        "O front-end usa principalmente HTML e CSS, enquanto o back-end utiliza linguagens como Java e Python. A comunicação entre as duas áreas é feita via APIs.",
+        " O front-end é responsável apenas pela estética do site, enquanto o back-end cuida da segurança. Na verdade, ambos precisam trabalhar juntos para garantir tanto a usabilidade quanto a segurança.",
+      ],
+      correta: 0
+    },
+    {
+      pergunta: "Como a escolha de frameworks e bibliotecas (como React, Angular ou Vue.js) pode impactar a performance e a manutenibilidade de uma aplicação web?",
+      respostas: [
+        "Frameworks mais populares geralmente têm uma comunidade maior, o que facilita a solução de problemas, mas pode não ter um impacto direto na performance da aplicação.",
+        "A escolha de um framework pode afetar a velocidade de desenvolvimento e a facilidade de adicionar novas funcionalidades, além de influenciar a forma como o código é estruturado, impactando a manutenibilidade.",
+        "Frameworks modernos como React são mais rápidos por serem otimizados para atualizações eficientes do DOM, mas isso pode exigir um maior conhecimento técnico da equipe, impactando a curva de aprendizado e a manutenibilidade.",
+      ],
+      correta: 0
+    },
   ];
 
   
